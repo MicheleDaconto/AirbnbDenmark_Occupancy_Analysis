@@ -1,4 +1,4 @@
-# AirBnB Denmark Occupancy analysis: Strategies to maximize revenue
+# AirBnB Denmark Occupancy Analysis: Strategies to Maximize Revenue
 
 ### The Project
 This study analyzes how AirBnB could increment the revenues in Denmark. The dashboard we have built, in particular, shows the principal factors that influence the occupancy rate. We then proceeded into proposing two strategies to the management.
